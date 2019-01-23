@@ -1,0 +1,127 @@
+{
+  "configVersion": 1,
+  "index": "./index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "./favicon.ico",
+        "./index.html",
+        "./main.762bb02e03acfeb7bee2.js",
+        "./polyfills.20ab2d163684112c2aba.js",
+        "./runtime.ec2944dd8b20ec099bf3.js",
+        "./styles.4b81c2ac582e62780a47.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "./assets/Yelp_trademark_RGB.png",
+        "./assets/Yelp_trademark_RGB_outline.png",
+        "./assets/dentist.jpg",
+        "./assets/dentist.png",
+        "./assets/fastfood.jpg",
+        "./assets/fastfood.png",
+        "./assets/icons/icon-128x128.png",
+        "./assets/icons/icon-144x144.png",
+        "./assets/icons/icon-152x152.png",
+        "./assets/icons/icon-192x192.png",
+        "./assets/icons/icon-384x384.png",
+        "./assets/icons/icon-512x512.png",
+        "./assets/icons/icon-72x72.png",
+        "./assets/icons/icon-96x96.png",
+        "./assets/no-image.jpg",
+        "./assets/pharmacy.jpg",
+        "./assets/pharmacy.png",
+        "./assets/pizza.jpg",
+        "./assets/pizza.png",
+        "./assets/restaurants.jpg",
+        "./assets/restaurants.json",
+        "./assets/restaurants.png",
+        "./assets/reviews.json",
+        "./assets/small_0.png",
+        "./assets/small_1.png",
+        "./assets/small_1_half.png",
+        "./assets/small_2.png",
+        "./assets/small_2_half.png",
+        "./assets/small_3.png",
+        "./assets/small_3_half.png",
+        "./assets/small_4.png",
+        "./assets/small_4_half.png",
+        "./assets/small_5.png",
+        "./assets/sushi.jpg",
+        "./assets/theatres.jpg",
+        "./assets/theatres.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "./assets/Yelp_trademark_RGB.png": "8d366c92c2d5556d5f89fede8c30d4c1ba3ce180",
+    "./assets/Yelp_trademark_RGB_outline.png": "44f335a6a590d7bb781ac993ff0cd3282a42662d",
+    "./assets/dentist.jpg": "35f94362ae73922e33220738cc35965a237406d7",
+    "./assets/dentist.png": "2fb0a3c4c7c68ec588f0493a73637493af68eab8",
+    "./assets/fastfood.jpg": "b87a8df6196906855b673a9eefe24bb6a837d329",
+    "./assets/fastfood.png": "c02bb80ce1b2b5d71965dd4745404c88a5b228bf",
+    "./assets/icons/icon-128x128.png": "c85a39c0b076e99f5bb281c7e8132f95b8f2d8d1",
+    "./assets/icons/icon-144x144.png": "728070d07c2f724b620c4aa3d64f7ec7d54e876a",
+    "./assets/icons/icon-152x152.png": "0b99c0e02d1030b180f8822c306305e36515ce0f",
+    "./assets/icons/icon-192x192.png": "aae0adc0c9265f6889acf334fb1245da15f4be4f",
+    "./assets/icons/icon-384x384.png": "63bc84110537305594a8cbf4e6aece11205bf166",
+    "./assets/icons/icon-512x512.png": "219d7083666856a7ee223661058780c2e1eae8fe",
+    "./assets/icons/icon-72x72.png": "7e14480895b7f6a74f1a405bc7052d31275d7ddd",
+    "./assets/icons/icon-96x96.png": "e807933d50e91d570af2d69a742979ab1dd3142c",
+    "./assets/no-image.jpg": "764a181a11411536c1a94a3e3a8817a70af68708",
+    "./assets/pharmacy.jpg": "1deb5c353f88ba2913c46b6b1bdef9eac8712ac3",
+    "./assets/pharmacy.png": "bcc717b104eeb4fcdd5a426769caea846f784458",
+    "./assets/pizza.jpg": "cd7fd6799f9b48851e88fdde3024e7b3dfaffb77",
+    "./assets/pizza.png": "e9f6dc50759c66b44f05778c0b661afa406e2f3b",
+    "./assets/restaurants.jpg": "b8d16ec18f35f3376df56f5fe79c8222b507cc5e",
+    "./assets/restaurants.json": "b4c377b6ddf03653fbba5bac7f6389219cfc2dc0",
+    "./assets/restaurants.png": "ac2bbe836b74a3c8546cefb51b395286758498c2",
+    "./assets/reviews.json": "e82806b1d7133dc15bf9c2b238d4a8d9dc809f45",
+    "./assets/small_0.png": "1d4238763de10b61da783dee812eae2332811bda",
+    "./assets/small_1.png": "8c9ea0ed6b186e6f63adeb3178d75d0e427791a3",
+    "./assets/small_1_half.png": "80cd35963e58b96e365bdb7cc6675c41fb5ffaf1",
+    "./assets/small_2.png": "463ac16eb0c5d57b6aab03fc73aaf8690bfc325b",
+    "./assets/small_2_half.png": "8ad7a9f88d602762fe38258642fae11d08504782",
+    "./assets/small_3.png": "aad7ae922d5aef1ab6195a59cb611af700063256",
+    "./assets/small_3_half.png": "2a72118794b4d278216d2fa20462dc596bd041d2",
+    "./assets/small_4.png": "7f7c339f0adfcadcb80160bf0a60bfa877558595",
+    "./assets/small_4_half.png": "7cd31da9bb3af598c4b1cf215a2ffec1ccca5622",
+    "./assets/small_5.png": "d0bed258ccc441204ffff5d9bb1e7344dab7f371",
+    "./assets/sushi.jpg": "868d3ad16b7ed96ea5612f2b50cd8bdbd8c33910",
+    "./assets/theatres.jpg": "b3370b1f699694fae5ca886f13999750b11f1355",
+    "./assets/theatres.png": "23185bf778bb18d34fb4dfd4ee033a46afe5ef3b",
+    "./favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "./index.html": "57c245de64917b6a4d9f01a6dde4011129be23a9",
+    "./main.762bb02e03acfeb7bee2.js": "e6d4f7a081850cfcc77c87acd7d116a4d36432e4",
+    "./polyfills.20ab2d163684112c2aba.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
+    "./runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "./styles.4b81c2ac582e62780a47.css": "7515b3570886d718acc6c56ba190e36d27e80dea"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
